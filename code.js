@@ -23,6 +23,8 @@ const operate = function (operator, a, b) {
 //add
 const add = function (a, b) {
     console.log("add")
+    console.log("delete")
+
 
 }
 
