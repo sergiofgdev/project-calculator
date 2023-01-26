@@ -31,6 +31,7 @@ const add = function (a, b) {
 //subtract
 const subtract = function (a, b) {
     console.log("substract")
+    console.log("delete")
 
 
 }
